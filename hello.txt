@@ -11,5 +11,5 @@ hello zudomon !
 hello zudomon !
 hello zudomon !
 hello zudomon ! master test
-hello zudomon ! master
+hello zudomon ! hot-fix
 hello zudomon ! hot-fix test
